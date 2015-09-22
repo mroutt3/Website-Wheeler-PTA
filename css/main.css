@@ -191,7 +191,7 @@ p {
 
 #calendar {
   max-width: 45%;
-  float: left;
+  /*float: left;*/
   margin: 2px;
   text-align: center;
   clear: both;
@@ -208,7 +208,7 @@ p {
   margin: 0;
   padding-top: 5%;
   list-style: none;
-  float: right;
+  /*float: right;*/
 }
 
 #gallery li {
