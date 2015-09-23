@@ -185,12 +185,12 @@ p {
 
 #events li {
   list-style: none;
-  display: inline-block;
+  display: inline;
   text-align: center;
 }
 
 #calendar {
-  max-width: 45%;
+  max-width: 80%;
   /*float: left;*/
   margin: 2px;
   text-align: center;
@@ -204,7 +204,7 @@ p {
 /************ HOME PAGE IMAGE GALLERY ************/
 
 #gallery {
-  max-width: 48%;
+  max-width: 80%;
   margin: 0;
   padding-top: 5%;
   list-style: none;
