@@ -13,6 +13,7 @@ $("#joinPTA").click(function (){
 	});
 
 $("#submit").click(function(){
+	$("form").hide();
     alert("THANK YOU FOR JOINING WHEELER ELEMENTARY PTA");
     });
 
