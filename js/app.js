@@ -7,8 +7,15 @@ $(document).ready (function() {
 	$("form").hide(); 
  });
 
-
 // Show Form when Join PTA Button is Clicked
+$("#joinPTA").click(function (){
+	$("form").show();
+	});
+
+$("#submit").click(function(){
+    alert("THANK YOU FOR JOINING WHEELER ELEMENTARY PTA");
+    });
+
 
 
 
